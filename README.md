@@ -9,3 +9,6 @@ Presently I have closed the resume link for public due to privacy reasons.
 This website makes extensive of HTML tags for the basic functioning and features. 
 It is styled with the help of an external CSS file.
 The CSS file handles fixed backgroud images, background colours, buttons' styling and other entities like links, mouse hover and transition time.
+
+# VIDEO
+https://drive.google.com/file/d/1zijaI5mqGdzXl_S-IFjyLnmvYDagxUex/view?usp=drivesdk
