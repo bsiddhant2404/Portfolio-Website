@@ -1,0 +1,172 @@
+	#ab0{
+		
+	background-image: url("C:/Users/hp/Documents/GitHub/BSiddhant.github.io/Auditorium.jpeg");
+	background-size: cover;
+	background-attachment: fixed;
+	    }
+	
+	.content {
+		        
+				width: 50%;
+				padding:1px;
+				margin: 50px auto;				
+				color : white;
+	      }
+	
+	#name{
+		font-size: 100px;
+		text-shadow:4px 4px 4px;
+	}
+	#college{
+		font-size: 50px;
+	}
+	
+	.container{
+		text-align:right;
+		margin-top:15px;
+	}
+	.btn1{
+		border:1px solid white;
+		background:none;
+		padding:10px 20px;
+		font-size:20px;
+		font-family:"montserrat";
+		cursor:pointer;
+		margin:10px;
+		color:white;
+		transition:0.5s;		
+	}
+	button:hover{
+		color:#3498db;
+	}
+	#ab1{
+		background-image: url("C:/Users/hp/Pictures/Camera Roll/background.jpeg");
+  margin-top:15px;
+			}
+	.about{
+		background:grey;
+		width:50%;
+		padding:20px;
+		margin:100px auto;
+	}
+	#ha{
+		font-size:100px;
+	 color:white;
+	 font-family:"Brush Script MT";
+	}
+	#ca1
+	{
+		font-size:25px;
+				color:white;
+		font-family:"Century Schoolbook";
+	}                                                             /*#547A7F*/
+	#ca2
+	{
+		font-size:25px;
+				color:white;
+		font-family:"Century Schoolbook";
+	}
+	#ca3 {
+		font-size:25px;
+				color:white;
+		font-family:"Century Schoolbook";
+	}
+	#ca4{
+		font-size:25px;
+		color:white;
+		font-family:"Century Schoolbook";
+	}
+	#bit
+	{
+		text-decoration:none;
+		color:black;
+	}
+	
+	
+	
+	#ab2{
+		background-image: url("C:/Users/hp/Pictures/Camera Roll/upperlawn.jpeg");
+		background-repeat:no-repeat;
+		background-size: 100% 60%;
+		background-color:black;
+	}
+	#hc{
+		font-size:100px;
+		color:white;
+	}
+	.contact{
+		background:#696969;
+		width:50%;
+		padding:10px;
+		margin:100px auto;
+	}
+	#cc{
+		font-family:"Book Antiqua";
+		font-size:30px;
+		color:white;
+	}
+	.sm{
+		width:50px;
+		height:50px;
+	}
+	#mail {
+		text-align: right;
+		font-size: 25px;
+		font-family: "Book Antiqua";
+		font-weight: bold;
+		
+	}
+	#maila {
+		text-decoration: none;
+	}
+	#maila:Link{
+		color: white;
+	}
+	#maila:visited{
+		color: grey;
+	}
+	#maila:hover{
+		color: #3498db;
+	}
+	#ab3{
+		
+	background-image: url("C:/Users/hp/Pictures/Camera Roll/Night.jpeg");
+	background-repeat:no-repeat;
+	background-position: 400px 0px;
+	background-color:black;
+	    }
+		#rc{
+			text-align: center;
+		font-size: 40px;
+		font-family: "Castellar";
+		font-weight: bold;
+		top:100px;
+		color:white;
+		padding: 100px;
+		}
+	.container1{
+		text-align:center;
+		margin-top:15px;
+	}
+	.btnR{
+		border:1px solid #3498db;
+		background:none;
+		padding:10px 20px;
+		font-size:35px;
+		font-family:"montserrat";
+		cursor:pointer;
+		margin:10px;
+		color:#3498db;
+		transition:3s;		
+	}
+	.btnR:hover{
+		color:white;
+	}
+	#name{
+		transition:1.5s;
+	}
+	
+	#name:hover{
+		color:orange;
+		
+	}
